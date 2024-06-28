@@ -1,3 +1,7 @@
+# Project Description
+
+
+
 # Project setup
 1. Download or clone via git this repository;
 2. Install one of the following IDE:
