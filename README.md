@@ -1,6 +1,10 @@
 # Project Overview
 This project explores optimization-based control techniques for autonomous navigation, where an agent must avoid obstacles while traversing a road. The primary objective is to develop an efficient and robust control system that enables the agent to navigate through a dynamic environment with barricades acting as obstacles.
 
+
+https://github.com/jayakvenu47/intelligent_vehicle/assets/167414113/05d19736-1501-4c0c-ad96-2576fe2e7cb6
+
+
 ## Features
 - **Optimization-Based Control:** Implements advanced control algorithms to ensure the agent makes optimal decisions to avoid obstacles.
 - **Dynamic Simulation:** Utilizes Pygame to create a realistic simulation environment, where the agent interacts with various barricades placed on the road.
